@@ -3,5 +3,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Hello, World! Your Go application is running successfully. Testing dummy !!")
+	fmt.Println("Hello, World! Your Go application is running successfully. I want to test dummy")
 }
